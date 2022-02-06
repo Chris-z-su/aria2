@@ -33,7 +33,7 @@ aria2c -i spring.txt
 <br/>
 
 ⑤ 单个下载，可以推送到aria2c.exe  
-![GitHub Mark](https://github.com/Chris-z-su/aria2/files/downloadsetting.png "GitHub Mark")  
+![Setting](https://github.com/Chris-z-su/aria2/blob/main/files/downloadsetting.png?raw=true "Setting")  
 <br/>
 
 ## 3. other
