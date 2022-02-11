@@ -1,5 +1,5 @@
 # aria2
-> 项目地址：https://github.com/Chris-z-su/aria2.git
+> 原项目地址：https://github.com/aria2/aria2
 ---
 ## 1. clone
 ```
